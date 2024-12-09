@@ -1,0 +1,24 @@
+86000019|76000018|Szegedi Istv�n |76000018|Szegedi Istv�n |00X|11111|6436 Budapest R�v u. 27. |
+86000029|76000027|Feh�r Katalin |76000027|Feh�r Katalin |00X|11111|2345 Tatab�nya Kossuth t�r 6. II.209. |
+86000038|76000036|Kem�ny Noel |76000036|Kem�ny Noel |00X|11111|8657 P�cs Tas u. 28. |
+86000047|76000045|Pint�r B�la |76000045|Pint�r B�la |00X|11111|3636 Kis�jsz�lll�s K�t�jfalu u. 195. |
+86000056|76000054|Rost�s R�bert |76000054|Rost�s R�bert |00X|11111|2456 Kerekegyh�za Aranyhegyi �t 12.II.2. |
+86000065|76000063|Kis Benedek |76000063|Kis Benedek |00X|11111|9556 Verpel�t Martinovics u. 6. |
+86000074|76000072|�lmos El�d |76000072|�lmos El�d |00X|11111|3465 Eger Hunyadi u. 15. |
+86000083|76000081|V�r�s J�nos |76000081|V�r�s J�nos |00X|11111|3467 Sirok G�d�rh�zi u. 48 |
+86000092|76000091|Vakula P�ter |76000091|Vakula P�ter |00X|11111|8946 Pell�rd Z�vodszky Z. u. 55. I. 4. |
+86000109|10000281|                                                            |10000272|                                                            |00X|11111|1041 Budapest Z�vodszky Z. u. 55. I. 4. |
+86000118|76000116|V�ci Zsombor |76000116|V�ci Zsombor |00X|11111|2357 Polg�r Gogol u. 31. II. 9. |
+86000127|76000125|Harcos B�lint |76000125|Harcos B�lint |00X|11111|6547 P�pa K�h�d u. 12/d |
+86000136|76000134|Balla T�mea |76000134|Balla T�mea |00X|11111|7356 K�ld Zay u. 24. II. |
+86000145|76000143|Farkas Oliv�r |76000143|Farkas Oliv�r |00X|11111|2355 G�rcs�ny Sz�chenyi u. 21. II. |
+86000154|76000152|T�th �d�m |76000152|T�th �d�m |00X|11111|8754 �zd Wessel�nyi u. 108. |
+86000163|76000161|Pill�r G�za |76000161|Pill�r G�za |00X|11111|4363 V�rpalota Avar k�z 2/a |
+86000172|76000171|Szombathy K�zm�r |76000171|Szombathy K�zm�r |00X|11111|2356 Baja Szent Mikl�s u. 10/b III. 10. |
+86000181|10000281|                                                            |10000272|                                                            |00X|11111|2310 Szigetszentmikl�s Szent Mikl�s u. 10/b III. 10. |
+86000191|76000199|Balatoni G�bor |76000199|Balatoni G�bor |00X|11111|7456 Szerencs Toboz u. 1. II. 7. |
+86000207|76000205|Horv�th Domokos |76000205|Horv�th Domokos |00X|11111|2346 Tokaj Kassai u. 25. IX. 36. |
+86000216|10000281|                                                            |10000272|                                                            |00X|11111||
+86000225|76000223|G�bor G�bor |76000223|G�bor G�bor |00X|11111|7876 Sopron R�t u. 89. |
+86000234|76000232|Fekete Attila |76000232|Fekete Attila |00X|11111|5647 K�szeg R�k�czi u. 62. |
+86000243|76000241|F�l�p M�ty�s |76000241|F�l�p M�ty�s |00X|11111|3467 Moh�cs M�ra F. u. 9. |
